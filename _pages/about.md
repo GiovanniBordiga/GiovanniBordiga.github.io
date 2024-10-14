@@ -18,9 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there!
 
-I am a researcher at the [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) working at the intersection of applied physics, mechanics, and computer science.
+I am a researcher at the [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) working at the intersection of mechanics, applied physics, and computer science.
 
-> My work focuses on developing understanding and design strategies at the nexus of structure–function relationships in material architectures to directly harness nonlinearities and instabilities for functionalities.
-
+> My work focuses on understanding and designing at the nexus of structure–function relationships in material architectures to harness nonlinearities and instabilities for functionalities.
