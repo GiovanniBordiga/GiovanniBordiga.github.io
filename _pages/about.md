@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there!
+#### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> Hey there!
 
 I am a researcher at the [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) working at the intersection of mechanics, applied physics, and computer science.
 
