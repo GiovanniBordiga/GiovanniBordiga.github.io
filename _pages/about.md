@@ -23,4 +23,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a researcher at the [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) working at the intersection of mechanics, applied physics, and computer science.
 
-> My work focuses on understanding and designing at the nexus of structure–function relationships in material architectures to harness nonlinearities and instabilities for functionalities.
+> My work focuses on understanding and designing structure--function relationships in material architectures to harness nonlinearities and instabilities for functionalities.
+
