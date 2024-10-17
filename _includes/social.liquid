@@ -31,6 +31,9 @@
 {% if site.publons_id %}
   <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
 {% endif %}
+{% if site.scopus_id %}
+  <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
+{% endif %}
 {% if site.lattes_id %}
   <a href="http://lattes.cnpq.br/{{ site.lattes_id }}" target="_blank" title="Lattes"><i class="ai ai-lattes"></i></a>
 {% endif %}
@@ -45,9 +48,6 @@
 {% endif %}
 {% if site.acm_id %}
   <a href="https://dl.acm.org/profile/{{site.acm_id}}/" title="ACM DL"><i class="ai ai-acm"></i></a>
-{% endif %}
-{% if site.scopus_id %}
-  <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
 {% endif %}
 {% if site.github_username %}
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
