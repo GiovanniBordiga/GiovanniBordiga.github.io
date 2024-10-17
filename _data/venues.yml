@@ -5,5 +5,26 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"NatMater":
+  url: https://www.nature.com/nmat/
+  color: "#c0392b"
+
+"AdvMater":
+  url: https://onlinelibrary.wiley.com/journal/15214095
+  color: "#2980b9"
+
+"JMPS":
+  url: https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
+  color: "#bdc3c7"
+
+"IJSS":
+  url: https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures
+  color: "#34495e"
+
+"ApplPhysLett":
+  url: https://aip.scitation.org/journal/apl
+  color: "#f1c40f"
+
+"PhilosTransRSocA":
+  url: https://royalsocietypublishing.org/journal/rsta
+  color: "#b71540"
