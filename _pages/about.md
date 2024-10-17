@@ -10,8 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="https://www.seas.harvard.edu/">Harvard SEAS</a></p>
-    <p>Room 327, Pierce Hall</p>
-    <p><a href="https://goo.gl/maps/2av1UkweW3oR7AhX8">29 Oxford St, Cambridge, MA 02138</a></p>
     <p><a href="mailto:gbordiga@seas.harvard.edu">gbordiga@seas.harvard.edu</a></p>
 
 news: true # includes a list of news items
