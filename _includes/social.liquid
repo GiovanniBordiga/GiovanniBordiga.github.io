@@ -1,6 +1,15 @@
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
+{% if site.linkedin_username %}
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+{% endif %}
+{% if site.keybase_username %}
+  <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase"><i class="fa-brands fa-keybase"></i></a>
+{% endif %}
+{% if site.x_username %}
+  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+{% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
 {% endif %}
@@ -43,11 +52,8 @@
 {% if site.github_username %}
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
 {% endif %}
-{% if site.linkedin_username %}
-  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-{% endif %}
-{% if site.x_username %}
-  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+{% if site.gitlab_username %}
+  <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
 {% endif %}
 {% if site.mastodon_username %}
   <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
@@ -75,12 +81,6 @@
 {% endif %}
 {% if site.strava_userid %}
   <a href="https://www.strava.com/athletes/{{ site.strava_userid }}" title="Strava"><i class="fa-brands fa-strava"></i></a>
-{% endif %}
-{% if site.keybase_username %}
-  <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase"><i class="fa-brands fa-keybase"></i></a>
-{% endif %}
-{% if site.gitlab_username %}
-  <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
 {% endif %}
 {% if site.dblp_url %}
   <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
