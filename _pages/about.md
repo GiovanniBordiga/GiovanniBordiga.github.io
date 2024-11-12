@@ -6,7 +6,7 @@ subtitle: Researcher. Educator. Engineer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="https://www.seas.harvard.edu/">Harvard SEAS</a></p>
