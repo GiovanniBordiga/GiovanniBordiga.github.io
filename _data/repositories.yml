@@ -6,7 +6,8 @@ repo_description_lines_max: 2
 github_repos:
   - bertoldi-collab/DifFlexMM
   - bertoldi-collab/morphing-lattices
-  - GiovanniBordiga/TOP-OPT-Plates
+  - bertoldi-collab/textile-hinge-metamaterials
   - bertoldi-collab/jax-intro
   - bertoldi-collab/tracking-markers
+  - GiovanniBordiga/TOP-OPT-Plates
   - GiovanniBordiga/ProbabilisticBricks
