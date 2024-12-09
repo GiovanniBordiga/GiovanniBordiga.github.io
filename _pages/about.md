@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher. Educator. Engineer.
+subtitle: Researcher. Engineer. Educator.
 
 profile:
   align: right
