@@ -1163,7 +1163,7 @@ ninja-keys::part(ninja-input-wrapper) {
 .bibsearch-form-input {
   color: var(--global-text-color);
   background: var(--global-bg-color);
-  border: 1px solid var(--global-newsletter-text-color);
+  border: 1px solid var(--global-divider-color);
   outline: none;
   margin: 0px 10px 0px 0px;
   width: 100%;
@@ -1175,7 +1175,8 @@ ninja-keys::part(ninja-input-wrapper) {
   padding: 8px 12px;
 }
 
-.newsletter-form-input:focus {
+.newsletter-form-input,
+.bibsearch-form-input:focus {
   border-color: var(--global-theme-color) !important;
 }
 
