@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚧 Website under construction! ⚠️ Albert is temporarily impersonating me 😂
+🚧 Website under construction! 🚧
