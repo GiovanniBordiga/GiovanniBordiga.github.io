@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Projects for research, learning, and fun.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
