@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a researcher at the [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) working at the intersection of mechanics, applied physics, and computer science.
 
-My research in one line.
+My work in one line.
 
 > ***Understand**, **discover**, and **design** material **architectures** to harness **nonlinearities** for **functionalities**.*
 
