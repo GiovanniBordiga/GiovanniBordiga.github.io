@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Conference talks
+## conference talks
 
 - Sep. 9–11, 2024, **SMASIS2024**, Atlanta, GA (US)  
   *Automated design of flexible mechanical metamaterials with reprogrammable wave functionalities*  
@@ -43,7 +43,7 @@ nav_order: 4
   **G. Bordiga**, E. Medina, V. Tournat, K. Bertoldi
 
 
-## Invited talks & seminars
+## invited talks & seminars
 
 - Jul. 25, 2024, **Seminar**, Seismology and Wave Physics Lab, ETH, Zürich (Switzerland)  
   *Teaching reprogrammable dynamics to material structures*  
