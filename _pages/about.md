@@ -23,5 +23,5 @@ I am a researcher at the [Harvard School of Engineering and Applied Sciences](ht
 
 My work in one line.
 
-> ***Understand**, **discover**, and **design** material **architectures** to harness **nonlinearities** for **functionalities**.*
+> *Merging **mechanics** and **computation** to **discover** and **design** **intelligent matter**.*
 
