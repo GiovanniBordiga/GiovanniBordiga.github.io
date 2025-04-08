@@ -9,6 +9,10 @@ nav_order: 4
 
 ## conference talks
 
+- Mar. 16–21, 2025: **APS2025**, Anaheim, CA (US)  
+  *Nonlinear mechanical metamaterial cloaks*  
+  **G. Bordiga**, J. Argaud, A. A. Watkins, V. Tournat, K. Bertoldi
+
 - Sep. 9–11, 2024, **SMASIS2024**, Atlanta, GA (US)  
   *Automated design of flexible mechanical metamaterials with reprogrammable wave functionalities*  
   **G. Bordiga**, E. Medina, S. Jafarzadeh, C. Bösche, V. Tournat, K. Bertoldi
@@ -45,6 +49,10 @@ nav_order: 4
 
 ## invited talks & seminars
 
+- Mar. 31, 2025, **Seminar**, [Center for Fluid Mechanics Seminar](https://events.brown.edu/engineering/event/308610-center-for-fluid-mechanics-seminar-giovanni), Brown University, Providence, RI (US)  
+  *Automating the discovery of nonlinear architected materials*  
+  **G. Bordiga**
+
 - Jul. 25, 2024, **Seminar**, Seismology and Wave Physics Lab, ETH, Zürich (Switzerland)  
   *Teaching reprogrammable dynamics to material structures*  
   **G. Bordiga**
@@ -54,5 +62,5 @@ nav_order: 4
   **G. Bordiga**
 
 - Jul. 4–8, 2022, **ESMC2022**, 11th European Solid Mechanics Conference, Galway (Ireland)  
-  *Non-hyper-elastic materials from follower prestress states reveal flutter instability in elastic lattices*  
+  *Non-hyper-elastic materials from follower prestress states reveal flutter instability in elastic lattices*
   **G. Bordiga**, A. Piccolroaz, D. Bigoni
