@@ -11,3 +11,13 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# VS Code settings
+.vscode
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Citation map cache
+citation-map/cache/
