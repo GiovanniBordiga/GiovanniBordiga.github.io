@@ -31,3 +31,7 @@
 "PhilosTransRSocA":
   url: https://royalsocietypublishing.org/journal/rsta
   color: "#b71540"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
