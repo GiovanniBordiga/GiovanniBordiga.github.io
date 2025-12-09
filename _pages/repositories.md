@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Code developed for research, teaching, and study projects.
+description: code developed for research, teaching, and study projects
 nav: true
 nav_order: 4
 ---
