@@ -9,7 +9,11 @@ nav_order: 4
 
 ## conference talks
 
-- Mar. 16–21, 2025: **APS2025**, Anaheim, CA (US)  
+- Mar. 15–20, 2026: **APS2026 Global Physics Summit**, Denver, CO (US)  
+  *Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control*  
+  **G. Bordiga**, C. Bösche, C. McCann, M. Yuen, J. Wilt, S. Jafarzadeh, K. Bertoldi.
+
+- Mar. 16–21, 2025: **APS2025 Global Physics Summit**, Anaheim, CA (US)  
   *Nonlinear mechanical metamaterial cloaks*  
   **G. Bordiga**, J. Argaud, A. A. Watkins, V. Tournat, K. Bertoldi
 
