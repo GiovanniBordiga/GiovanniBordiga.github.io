@@ -11,7 +11,7 @@ nav_order: 4
 
 - Mar. 15–20, 2026: **APS2026 Global Physics Summit**, Denver, CO (US)  
   *Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control*  
-  **G. Bordiga**, C. Bösche, C. McCann, M. Yuen, J. Wilt, S. Jafarzadeh, K. Bertoldi.
+  **G. Bordiga**, C. Bösch, C. McCann, M. Yuen, J. Wilt, S. Jafarzadeh, K. Bertoldi.
 
 - Mar. 16–21, 2025: **APS2025 Global Physics Summit**, Anaheim, CA (US)  
   *Nonlinear mechanical metamaterial cloaks*  
@@ -19,16 +19,16 @@ nav_order: 4
 
 - Sep. 9–11, 2024, **SMASIS2024**, Atlanta, GA (US)  
   *Automated design of flexible mechanical metamaterials with reprogrammable wave functionalities*  
-  **G. Bordiga**, E. Medina, S. Jafarzadeh, C. Bösche, V. Tournat, K. Bertoldi
+  **G. Bordiga**, E. Medina, S. Jafarzadeh, C. Bösch, V. Tournat, K. Bertoldi
 
 - Sep. 9–11, 2024, **SMASIS2024**, Atlanta, GA (US)  
   *Mechanical metamaterial 'brain' for fully analog control of a mobile robot*  
-  C. Bösche, **G. Bordiga**, C. McCann, S. Jafarzadeh, J. Wilt, M. Yuen, Y. Jin, A. Fichtner, K. Bertoldi
+  C. Bösch, **G. Bordiga**, C. McCann, S. Jafarzadeh, J. Wilt, M. Yuen, Y. Jin, A. Fichtner, K. Bertoldi
 
 - Jul. 3–4, 2024, **DynaMetaFlex**, Workshop on "Nonlinear dynamics of flexible mechanical metamaterials,"  
   Laboratoire d'Acoustique de l'Université du Mans, Institut d'Acoustique – Graduate School, CNRS, Le Mans Université, Le Mans, (France)  
   *Teaching reprogrammable dynamics to material structures*  
-  **G. Bordiga**, E. Medina, S. Jafarzadeh, C. Bösche, V. Tournat, K. Bertoldi
+  **G. Bordiga**, E. Medina, S. Jafarzadeh, C. Bösch, V. Tournat, K. Bertoldi
 
 - Oct. 8–11, 2023, **SES2023**, Minneapolis, MN (US)  
   *Inverse-design of nonlinear mechanical metamaterial cloaks*  
