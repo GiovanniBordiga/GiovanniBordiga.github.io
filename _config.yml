@@ -35,6 +35,7 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
+github_readme_stats_url: https://github.com/GiovanniBordiga/GiovanniBordiga/raw/refs/heads/main/profile # the base url for your github readme stats images
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
