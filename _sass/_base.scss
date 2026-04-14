@@ -788,7 +788,14 @@ footer.sticky-bottom {
           }
         }
       }
-
+      
+      .badges .__dimensions_badge_embed__ {
+        margin-bottom: 0 !important;
+        line-height: 1;
+      }
+      .badges .__dimensions_badge_embed__ {
+        transform: translateY(-1px);
+      }
       .badges .__dimensions_badge_embed__ iframe,
       .badges .__dimensions_badge_embed__ img,
       .badges .altmetric-embed img,
