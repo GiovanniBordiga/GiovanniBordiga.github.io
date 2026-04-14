@@ -770,17 +770,30 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
-        span {
-          display: inline-block;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+
+        span,
+        a {
+          display: inline-flex;
+          align-items: center;
           color: $black-color;
-          height: 100%;
-          padding-right: 0.5rem;
-          vertical-align: middle;
+          padding-right: 0;
+          line-height: 1;
 
           &:hover {
             text-decoration: underline;
           }
         }
+      }
+
+      .badges .__dimensions_badge_embed__ iframe,
+      .badges .__dimensions_badge_embed__ img,
+      .badges .altmetric-embed img,
+      .badges .altmetric-embed svg {
+        display: block;
       }
 
       .hidden {
