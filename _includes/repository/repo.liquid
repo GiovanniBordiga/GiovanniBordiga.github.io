@@ -13,11 +13,11 @@
 
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.repository }}">
-    <img
+    {% comment %} <img
       class="repo-img-light w-100"
       alt="{{ include.repository }}"
       src="{{ site.github_readme_stats_url }}/pin-{{ repo_url[0] }}-{{ repo_url[1] }}.svg"
-    >
+    > {% endcomment %}
     <img
       class="repo-img-dark w-100"
       alt="{{ include.repository }}"
