@@ -15,7 +15,8 @@ vendor
 # VS Code settings
 .vscode
 
-# Python cache
+# Python
+.venv
 __pycache__/
 *.py[cod]
 
