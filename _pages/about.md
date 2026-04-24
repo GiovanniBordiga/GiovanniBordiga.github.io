@@ -32,5 +32,4 @@ I am a researcher at the [Harvard School of Engineering and Applied Sciences](ht
 
 My work in one line.
 
-> *Merging **mechanics** and **computation** to **discover** and **design** **intelligent matter**.*
-
+> _Merging **mechanics** and **computation** to **discover** and **design** **intelligent matter**._
