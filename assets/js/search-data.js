@@ -524,7 +524,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("giovannibordiga.bsky.social", "_blank");
+          window.open("https://giovannibordiga.bsky.social", "_blank");
         },
       },{
         id: 'social-linkedin',
