@@ -1,0 +1,11 @@
+{% if page.cv_pdf and page.embed_pdf %}
+  <div class="cv-embed mt-4">
+    <iframe
+      src="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}"
+      width="100%"
+      height="800px"
+      style="border: none;"
+      title="CV PDF"
+    ></iframe>
+  </div>
+{% endif %}
