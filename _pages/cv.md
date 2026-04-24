@@ -5,7 +5,6 @@ title: cv
 nav: true
 nav_order: 6
 cv_pdf: /assets/pdf/CV_full.pdf
-description: Check out my CV.
-toc:
-  sidebar: left
+embed_pdf: true
+description: "Check out my CV :point_down:"
 ---
