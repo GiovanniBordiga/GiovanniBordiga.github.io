@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - bertoldi-collab/DifFlexMM
+  - bertoldi-collab/MechanicalMetamaterialCloaks
   - bertoldi-collab/morphing-lattices
   - bertoldi-collab/textile-hinge-metamaterials
   - bertoldi-collab/jax-intro
