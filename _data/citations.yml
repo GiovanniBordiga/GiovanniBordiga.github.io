@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-03'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -10,7 +10,7 @@ papers:
     title: 'Incremental constitutive tensors and strain localization for prestressed elastic lattices: Part I--quasi-static response'
     year: '2020'
   RR1ZhI0AAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Nonlinear mechanical metamaterial cloaks
     year: '2025'
   RR1ZhI0AAAAJ:5nxA0vEk-isC:
