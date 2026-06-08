@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-04'
+  last_updated: '2026-06-08'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -42,7 +42,7 @@ papers:
     title: Arbitrary mechanical memory encoding via nonlinear waves in bistable metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:Se3iqnhoufwC:
-    citations: 86
+    citations: 87
     title: Automated discovery of reprogrammable nonlinear dynamic metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Textile hinges enable extreme properties of kirigami metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:qjMakFHDy7sC:
-    citations: 43
+    citations: 44
     title: 'Dynamics of prestressed elastic lattices: Homogenization, instabilities, and strain localization'
     year: '2021'
   RR1ZhI0AAAAJ:roLk4NBRz8UC:
