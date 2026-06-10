@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -49,6 +49,10 @@ papers:
     citations: 0
     title: Architected metamaterials for routing nonlinear mechanical pulses
     year: '2022'
+  RR1ZhI0AAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Vibrational phenomena in conformally symmetric dilational metamaterials
+    year: '2026'
   RR1ZhI0AAAAJ:UeHWp8X0CEIC:
     citations: 23
     title: A way to hypo-elastic artificial materials without a strain potential and displaying flutter instability
@@ -57,10 +61,18 @@ papers:
     citations: 0
     title: Manipulating energy flows in non-periodic mechanical metamaterials
     year: '2023'
+  RR1ZhI0AAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Wave based manipulation and reading of mechanical memory in a mass-in-mass metamaterial
+    year: '2026'
   RR1ZhI0AAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Autonomous Control of a Mobile Robot using a Mechanical Metamaterial``Brain''
     year: '2023'
+  RR1ZhI0AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control
+    year: '2026'
   RR1ZhI0AAAAJ:d1gkVwhDpl0C:
     citations: 36
     title: Prestress tuning of negative refraction and wave channeling from flexural sources
