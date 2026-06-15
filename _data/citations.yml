@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-14'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 33
@@ -42,7 +42,7 @@ papers:
     title: Arbitrary mechanical memory encoding via nonlinear waves in bistable metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:Se3iqnhoufwC:
-    citations: 87
+    citations: 89
     title: Automated discovery of reprogrammable nonlinear dynamic metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control
     year: '2026'
   RR1ZhI0AAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 37
     title: Prestress tuning of negative refraction and wave channeling from flexural sources
     year: '2019'
   RR1ZhI0AAAAJ:eQOLeE2rZwMC:
@@ -94,7 +94,7 @@ papers:
     title: Conformal symmetry & elastodynamics of dilational metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:u-x6o8ySG0sC:
-    citations: 49
+    citations: 50
     title: 'Free and forced wave propagation in a Rayleigh-beam grid: flat bands, Dirac cones, and vibration localization vs isotropization'
     year: '2019'
   RR1ZhI0AAAAJ:u5HHmVD_uO8C:
