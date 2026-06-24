@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
-    citations: 34
+    citations: 35
     title: Reprogrammable mechanical metamaterials via passive and active magnetic interactions
     year: '2025'
   RR1ZhI0AAAAJ:2osOgNQ5qMEC:
@@ -42,7 +42,7 @@ papers:
     title: Arbitrary mechanical memory encoding via nonlinear waves in bistable metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:Se3iqnhoufwC:
-    citations: 90
+    citations: 91
     title: Automated discovery of reprogrammable nonlinear dynamic metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:Tyk-4Ss8FVUC:
