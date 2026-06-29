@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 35
@@ -34,7 +34,7 @@ papers:
     title: Conformal Elastodynamics in 2D Dilational Metamaterials
     year: '2026'
   RR1ZhI0AAAAJ:LkGwnXOMwfcC:
-    citations: 76
+    citations: 77
     title: "Liquid crystal elastomer lattices with thermally programmable deformation via multi\u2010material 3D printing"
     year: '2024'
   RR1ZhI0AAAAJ:MXK_kJrjxJIC:
@@ -86,7 +86,7 @@ papers:
     title: Textile hinges enable extreme properties of kirigami metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:qjMakFHDy7sC:
-    citations: 44
+    citations: 45
     title: 'Dynamics of prestressed elastic lattices: Homogenization, instabilities, and strain localization'
     year: '2021'
   RR1ZhI0AAAAJ:roLk4NBRz8UC:
