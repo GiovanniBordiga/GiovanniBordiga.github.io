@@ -52,6 +52,10 @@ nav_order: 4
 
 ## invited talks & seminars
 
+- Jun. 22–25, 2026, **NSF ID4 Workshop**, [_Accelerating Quantum Materials Discovery Workshop_](https://id4.mines.edu/quantum-materials-workshop/), Colorado School of Mines, Golden, CO (US)  
+  _Nonlinear mechanical metamaterial cloaks_  
+  **G. Bordiga**, J. Argaud, A. A. Watkins, V. Tournat, K. Bertoldi
+
 - Mar. 31, 2025, **Seminar**, [Center for Fluid Mechanics Seminar](https://events.brown.edu/engineering/event/308610-center-for-fluid-mechanics-seminar-giovanni), Brown University, Providence, RI (US)  
   _Automating the discovery of nonlinear architected materials_  
   **G. Bordiga**
