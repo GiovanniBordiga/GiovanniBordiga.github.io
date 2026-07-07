@@ -52,7 +52,7 @@ nav_order: 4
 
 ## invited talks & seminars
 
-- Jun. 22–25, 2026, **NSF ID4 Workshop**, [_Accelerating Quantum Materials Discovery Workshop_](https://id4.mines.edu/quantum-materials-workshop/), Colorado School of Mines, Golden, CO (US)  
+- Jun. 22–25, 2026, **NSF ID4 Workshop**, [Accelerating Quantum Materials Discovery Workshop](https://id4.mines.edu/quantum-materials-workshop/), Colorado School of Mines, Golden, CO (US)  
   _Nonlinear mechanical metamaterial cloaks_  
   **G. Bordiga**, J. Argaud, A. A. Watkins, V. Tournat, K. Bertoldi
 
