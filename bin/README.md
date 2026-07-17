@@ -33,7 +33,7 @@ Then commit and push the change to `_data/citations.yml`.
 
 Cloud sessions install the dependencies automatically via the
 `SessionStart` hook in [`.claude/settings.json`](../.claude/settings.json),
-which runs [`../scripts/install_pkgs.sh`](../scripts/install_pkgs.sh) (cloud-only,
+which runs [`install_python_deps.sh`](install_python_deps.sh) (cloud-only,
 and a no-op once the packages are present). So you only need:
 
 ```bash
