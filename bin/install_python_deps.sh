@@ -15,5 +15,10 @@ if python -c "import scholarly, yaml" 2>/dev/null; then
   exit 0
 fi
 
-pip install -r requirements.txt
-exit 0
+# scholarly pulls in bibtexparser, which still ships a legacy setup.py build.
+# The system setuptools (Debian-patched, from /usr/lib/python3/dist-packages)
+# fails that build with "AttributeError: install_layout", so upgrade
+# setuptools/wheel into user site-packages first to avoid touching the
+# Debian-managed system packages.
+pip install --user --upgrade setuptools wheel
+pip install --user -r requirements.txt
