@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-03'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 41
@@ -10,7 +10,7 @@ papers:
     title: 'Incremental constitutive tensors and strain localization for prestressed elastic lattices: Part I--quasi-static response'
     year: '2020'
   RR1ZhI0AAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 3
     title: Nonlinear mechanical metamaterial cloaks
     year: '2026'
   RR1ZhI0AAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Conformal Elastodynamics in 2D Dilational Metamaterials
     year: '2026'
   RR1ZhI0AAAAJ:LkGwnXOMwfcC:
-    citations: 80
+    citations: 81
     title: "Liquid crystal elastomer lattices with thermally programmable deformation via multi\u2010material 3D printing"
     year: '2024'
   RR1ZhI0AAAAJ:MXK_kJrjxJIC:
@@ -42,7 +42,7 @@ papers:
     title: Arbitrary mechanical memory encoding via nonlinear waves in bistable metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:Se3iqnhoufwC:
-    citations: 92
+    citations: 89
     title: Automated discovery of reprogrammable nonlinear dynamic metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control
     year: '2026'
   RR1ZhI0AAAAJ:d1gkVwhDpl0C:
-    citations: 37
+    citations: 36
     title: Prestress tuning of negative refraction and wave channeling from flexural sources
     year: '2019'
   RR1ZhI0AAAAJ:eQOLeE2rZwMC:
@@ -86,7 +86,7 @@ papers:
     title: Textile hinges enable extreme properties of kirigami metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:qjMakFHDy7sC:
-    citations: 46
+    citations: 47
     title: 'Dynamics of prestressed elastic lattices: Homogenization, instabilities, and strain localization'
     year: '2021'
   RR1ZhI0AAAAJ:roLk4NBRz8UC:
