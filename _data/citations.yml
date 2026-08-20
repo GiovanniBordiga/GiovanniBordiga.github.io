@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-20'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
-    citations: 43
+    citations: 44
     title: Reprogrammable mechanical metamaterials via passive and active magnetic interactions
     year: '2025'
   RR1ZhI0AAAAJ:2osOgNQ5qMEC:
@@ -42,7 +42,7 @@ papers:
     title: Arbitrary mechanical memory encoding via nonlinear waves in bistable metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:Se3iqnhoufwC:
-    citations: 96
+    citations: 98
     title: Automated discovery of reprogrammable nonlinear dynamic metamaterials
     year: '2024'
   RR1ZhI0AAAAJ:Tyk-4Ss8FVUC:
@@ -82,7 +82,7 @@ papers:
     title: Tensile material instabilities in elastic beam lattices lead to a bounded stability domain
     year: '2022'
   RR1ZhI0AAAAJ:hqOjcs7Dif8C:
-    citations: 17
+    citations: 18
     title: Textile hinges enable extreme properties of kirigami metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:qjMakFHDy7sC:
