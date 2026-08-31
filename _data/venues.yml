@@ -32,6 +32,10 @@
   url: https://royalsocietypublishing.org/journal/rsta
   color: "#b71540"
 
+"PhysRevLett":
+  url: https://journals.aps.org/prl/
+  color: "#055762"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
