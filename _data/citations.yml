@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-12'
+  last_updated: '2026-09-13'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 45
@@ -72,6 +72,10 @@ papers:
   RR1ZhI0AAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Tuning nonlinear mechanical metamaterials for fully-analog sensing and robotic control
+    year: '2026'
+  RR1ZhI0AAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Wave-based reading of mechanical memory in multistable mass-in-mass metamaterials
     year: '2026'
   RR1ZhI0AAAAJ:d1gkVwhDpl0C:
     citations: 36
