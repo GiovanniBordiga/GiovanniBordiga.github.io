@@ -1,3 +1,4 @@
 nbconvert
 pyyaml
 scholarly
+bibtexparser<2
