@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-10'
+  last_updated: '2026-10-13'
 papers:
   RR1ZhI0AAAAJ:0EnyYjriUFMC:
     citations: 46
@@ -10,7 +10,7 @@ papers:
     title: 'Incremental constitutive tensors and strain localization for prestressed elastic lattices: Part I--quasi-static response'
     year: '2020'
   RR1ZhI0AAAAJ:3fE2CSJIrl8C:
-    citations: 3
+    citations: 4
     title: Nonlinear mechanical metamaterial cloaks
     year: '2026'
   RR1ZhI0AAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Conformal Elastodynamics in 2D Dilational Metamaterials
     year: '2026'
   RR1ZhI0AAAAJ:LkGwnXOMwfcC:
-    citations: 88
+    citations: 89
     title: "Liquid crystal elastomer lattices with thermally programmable deformation via multi\u2010material 3D printing"
     year: '2024'
   RR1ZhI0AAAAJ:MXK_kJrjxJIC:
@@ -90,7 +90,7 @@ papers:
     title: Textile hinges enable extreme properties of kirigami metamaterials
     year: '2025'
   RR1ZhI0AAAAJ:qjMakFHDy7sC:
-    citations: 48
+    citations: 49
     title: 'Dynamics of prestressed elastic lattices: Homogenization, instabilities, and strain localization'
     year: '2021'
   RR1ZhI0AAAAJ:roLk4NBRz8UC:
