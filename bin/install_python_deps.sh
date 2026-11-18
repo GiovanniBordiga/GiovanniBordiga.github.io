@@ -20,5 +20,8 @@ fi
 # fails that build with "AttributeError: install_layout", so upgrade
 # setuptools/wheel into user site-packages first to avoid touching the
 # Debian-managed system packages.
-pip install --user --upgrade setuptools wheel
-pip install --user -r requirements.txt
+# Use `python -m pip` (not bare `pip`) so packages land in the same interpreter
+# the check above and the script's `#!/usr/bin/env python` shebang use;
+# bare `pip` can belong to a different Python version.
+python -m pip install --user --upgrade setuptools wheel
+python -m pip install --user -r requirements.txt
